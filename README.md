@@ -10,3 +10,4 @@ Curl Google Translate PHP<br>
 <b>text:</b> content to be translated<br>
 <b>from:</b> translate from any language<br>
 <b>to:</b> translate into which language<br>
+
